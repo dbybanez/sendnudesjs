@@ -1,7 +1,5 @@
 # sendnudesjs
-Printing the phrase "send nudes" using only expressions and operators using JavaScript.
-
-This JavaScript returns a string using only expressions and operators. 
+Printing the phrase "send nudes" using only expressions and operators in JavaScript.
 
 Here's how I printed the string:
 
